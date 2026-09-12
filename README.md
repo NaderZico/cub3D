@@ -19,9 +19,3 @@ make clean / make fclean / make re
 ```
 
 Uses a bundled MiniLibX; a display is required to run.
-
-## What I learned
-- Raycasting math and column-by-column rendering
-- Parsing a custom config file and validating a map
-- Event handling, hooks, and frame timing
-- Structuring a larger C codebase and managing graphics resources
